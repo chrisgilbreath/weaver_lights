@@ -41,7 +41,7 @@ public class LoginActivity extends Activity implements WeaverSdk.WeaverSdkCallba
         // - enter your Weaver API key and call WeaverSdkApi.init
         // - if you don't have an API key - you can get one at:
         //       http://weavingthings.com
-        final String API_KEY = "XXXXXXXXXXXXXXX";
+        final String API_KEY = "d8c57d0aca858920a811a65ee5b7f9d42882a197c50c9f2d9577d919a24fa3ef96831d05af63c33f3396792339ad9f2fd685";
         WeaverSdkApi.init(this, API_KEY, getApplicationContext());
 
 
